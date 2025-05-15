@@ -1,0 +1,12 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+h2 {
+  font-weight: 600;
+}
+#services .col-md-4 {
+  margin-bottom: 30px;
+}
+footer small {
+  font-size: 0.9rem;
+}
